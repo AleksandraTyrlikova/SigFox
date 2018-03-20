@@ -23,7 +23,7 @@
 #include "ns3/uinteger.h"
 #include "ns3/log.h"
 
-#define Min(a,b) ((a < b) ? a : b)
+#define Min(a,b) ((a < b) ? a : c)
 #define Max(a,b) ((a > b) ? a : b)
 
 namespace ns3 {
